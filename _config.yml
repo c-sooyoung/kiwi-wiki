@@ -1,3 +1,5 @@
 title: Kiwi Wiki
-description: An archive / library / blog / wiki of my interests.
+description: >
+  An archive / library / blog / wiki of my interests.
+  Not technically a wiki, but the naming fit well with 'kiwi'.
 theme: jekyll-theme-minimal
