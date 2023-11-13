@@ -1,3 +1,3 @@
 # Under construction
 
-[About me](./..)
+[About me](https://www.kiwisflight.com)
